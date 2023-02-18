@@ -46,11 +46,11 @@
 \beamer@subsectionintoc {6}{1}{1. Sampling}{215}{0}{6}
 \beamer@subsubsectionintoc {6}{1}{1}{Random Sampling}{219}{0}{6}
 \beamer@subsubsectionintoc {6}{1}{2}{Point Estimators}{224}{0}{6}
-\beamer@subsectionintoc {6}{2}{2. Sampling Distributions of the Means}{228}{0}{6}
-\beamer@subsectionintoc {6}{3}{3. Sampling Distributions of the Proportion}{236}{0}{6}
-\beamer@subsectionintoc {6}{4}{4. Interval Estimation}{243}{0}{6}
+\beamer@subsectionintoc {6}{2}{2. Sampling Distributions of $\mu $}{228}{0}{6}
+\beamer@subsectionintoc {6}{3}{3. Sampling Distributions of $p$}{236}{0}{6}
+\beamer@subsectionintoc {6}{4}{4. Interval Estimation in Z-Dist.}{243}{0}{6}
 \beamer@subsubsectionintoc {6}{4}{1}{Overview}{244}{0}{6}
-\beamer@subsubsectionintoc {6}{4}{2}{Interval Estimation for Population Mean}{247}{0}{6}
-\beamer@subsubsectionintoc {6}{4}{3}{Interval Estimation for Population Proportion}{261}{0}{6}
-\beamer@subsubsectionintoc {6}{4}{4}{When the $\sigma $ is Unknown - T-Distribution}{266}{0}{6}
-\beamer@subsectionintoc {6}{5}{5. Hypothesis Testing}{275}{0}{6}
+\beamer@subsubsectionintoc {6}{4}{2}{Interval Estimation for Population Mean}{248}{0}{6}
+\beamer@subsubsectionintoc {6}{4}{3}{Interval Estimation for Population Proportion}{262}{0}{6}
+\beamer@subsectionintoc {6}{5}{5. Interval Estimation in T-Dist.}{267}{0}{6}
+\beamer@subsectionintoc {6}{6}{6. Hypothesis Testing}{276}{0}{6}

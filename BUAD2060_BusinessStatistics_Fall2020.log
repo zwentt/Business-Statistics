@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.9)  1 JUN 2022 02:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.9)  20 JUN 2022 22:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1283,7 +1283,7 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 134.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 134.
-<images/wsulogo.png, id=93, 144.54pt x 115.632pt>
+<images/wsulogo.png, id=97, 144.54pt x 115.632pt>
 File: images/wsulogo.png Graphic file (type png)
 <use images/wsulogo.png>
 Package pdftex.def Info: images/wsulogo.png  used on input line 134.
@@ -1307,32 +1307,34 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 
 ]
 (./BUAD2060_BusinessStatistics_Fall2020.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
 
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
 
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 55.
+(Font)              scaled to size 7.0pt on input line 49.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 49.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 55.
+(Font)              scaled to size 10.0pt on input line 49.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 6.0pt on input line 55.
+(Font)              scaled to size 7.0pt on input line 49.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 5.0pt on input line 55.
+(Font)              scaled to size 5.0pt on input line 49.
 ) [4
 
 ] [5
 
 ]
-<dilbertStatistics.png, id=266, 669.2503pt x 202.50656pt>
+<dilbertStatistics.png, id=268, 669.2503pt x 202.50656pt>
 File: dilbertStatistics.png Graphic file (type png)
 <use dilbertStatistics.png>
 Package pdftex.def Info: dilbertStatistics.png  used on input line 190.
@@ -1361,7 +1363,7 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-LF/m/it' will be
 ] [8
 
 ]
-<illustration-of-florence-nightingale-holding-lamp.jpg, id=285, 198.9834pt x 28
+<illustration-of-florence-nightingale-holding-lamp.jpg, id=286, 198.9834pt x 28
 9.08pt>
 File: illustration-of-florence-nightingale-holding-lamp.jpg Graphic file (type 
 jpg)
@@ -1369,7 +1371,7 @@ jpg)
 Package pdftex.def Info: illustration-of-florence-nightingale-holding-lamp.jpg 
  used on input line 239.
 (pdftex.def)             Requested size: 94.008pt x 136.5733pt.
-<nightingaleChart.jpg, id=286, 578.16pt x 380.1402pt>
+<nightingaleChart.jpg, id=287, 578.16pt x 380.1402pt>
 File: nightingaleChart.jpg Graphic file (type jpg)
 <use nightingaleChart.jpg>
 Package pdftex.def Info: nightingaleChart.jpg  used on input line 239.
@@ -1378,12 +1380,12 @@ Package pdftex.def Info: nightingaleChart.jpg  used on input line 239.
 
  <./illustration-of-florence-nightingale-holding-lamp.jpg> <./nightingaleChart.
 jpg>]
-<edwardDeming.jpg, id=292, 207.02344pt x 250.68657pt>
+<edwardDeming.jpg, id=293, 207.02344pt x 250.68657pt>
 File: edwardDeming.jpg Graphic file (type jpg)
 <use edwardDeming.jpg>
 Package pdftex.def Info: edwardDeming.jpg  used on input line 249.
 (pdftex.def)             Requested size: 110.43896pt x 133.72786pt.
-<redBeads.png, id=293, 475.7775pt x 327.47343pt>
+<redBeads.png, id=294, 475.7775pt x 327.47343pt>
 File: redBeads.png Graphic file (type png)
 <use redBeads.png>
 Package pdftex.def Info: redBeads.png  used on input line 249.
@@ -1393,12 +1395,14 @@ Package pdftex.def Info: redBeads.png  used on input line 249.
  <./edwardDeming.jpg> <./redBeads.png>]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 8.0pt on input line 266.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 6.0pt on input line 266.
  [11
 
 ] [12
 
 ]
-<images/dataToKnowledge.png, id=311, 320.8788pt x 218.7372pt>
+<images/dataToKnowledge.png, id=312, 320.8788pt x 218.7372pt>
 File: images/dataToKnowledge.png Graphic file (type png)
 <use images/dataToKnowledge.png>
 Package pdftex.def Info: images/dataToKnowledge.png  used on input line 306.
@@ -1420,7 +1424,7 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 ] [16
 
 ]
-<images/nowOrNever.jpg, id=334, 1027.84pt x 578.16pt>
+<images/nowOrNever.jpg, id=335, 1027.84pt x 578.16pt>
 File: images/nowOrNever.jpg Graphic file (type jpg)
 <use images/nowOrNever.jpg>
 Package pdftex.def Info: images/nowOrNever.jpg  used on input line 417.
@@ -1441,7 +1445,7 @@ Overfull \hbox (1.0645pt too wide) in paragraph at lines 417--417
 ] [21
 
 ]
-<images/scaleTypeDataExample.png, id=370, 551.48892pt x 254.23553pt>
+<images/scaleTypeDataExample.png, id=371, 551.48892pt x 254.23553pt>
 File: images/scaleTypeDataExample.png Graphic file (type png)
 <use images/scaleTypeDataExample.png>
 Package pdftex.def Info: images/scaleTypeDataExample.png  used on input line 50
@@ -1449,17 +1453,10 @@ Package pdftex.def Info: images/scaleTypeDataExample.png  used on input line 50
 (pdftex.def)             Requested size: 303.31984pt x 139.82997pt.
  [22
 
- <./images/scaleTypeDataExample.png>]
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 539.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 539.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 539.
- [23
+ <./images/scaleTypeDataExample.png>] [23
 
 ]
-<images/crossSectional.png, id=382, 807.7678pt x 347.79938pt>
+<images/crossSectional.png, id=383, 807.7678pt x 347.79938pt>
 File: images/crossSectional.png Graphic file (type png)
 <use images/crossSectional.png>
 Package pdftex.def Info: images/crossSectional.png  used on input line 553.
@@ -1472,7 +1469,7 @@ Overfull \hbox (15.81152pt too wide) in paragraph at lines 553--553
 [24
 
  <./images/crossSectional.png>]
-<images/timeSeries.png, id=389, 833.36343pt x 295.1025pt>
+<images/timeSeries.png, id=390, 833.36343pt x 295.1025pt>
 File: images/timeSeries.png Graphic file (type png)
 <use images/timeSeries.png>
 Package pdftex.def Info: images/timeSeries.png  used on input line 565.
@@ -1536,7 +1533,7 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 [39
 
  <./images/ch2PelicanDataSnippet.png>]
-<images/frequencyTable.png, id=491, 481.04718pt x 230.36063pt>
+<images/frequencyTable.png, id=490, 481.04718pt x 230.36063pt>
 File: images/frequencyTable.png Graphic file (type png)
 <use images/frequencyTable.png>
 Package pdftex.def Info: images/frequencyTable.png  used on input line 812.
@@ -1969,6 +1966,8 @@ Package pdftex.def Info: images/ch2EmpiricalRule.png  used on input line 1917.
  <./images/ch2EmpiricalRule.png>] [103
 
 ]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 1950.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 1950.
  [104
@@ -2596,7 +2595,7 @@ Package pdftex.def Info: images/section5RandomNumber.png  used on input line 41
  <./images/section5RandomNumber.png>] [223
 
 ]
-<images/section5PointEstimators.png, id=1632, 813.46768pt x 306.28714pt>
+<images/section5PointEstimators.png, id=1631, 813.46768pt x 306.28714pt>
 File: images/section5PointEstimators.png Graphic file (type png)
 <use images/section5PointEstimators.png>
 Package pdftex.def Info: images/section5PointEstimators.png  used on input line
@@ -2611,7 +2610,22 @@ Package pdftex.def Info: images/section5PointEstimators.png  used on input line
 ]
 [227
 
-] [228
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 4244.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mu' on input line 4244.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 4244.
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 4247.
+[228
 
 ] [229
 
@@ -2626,8 +2640,7 @@ line 4295.
 (pdftex.def)             Requested size: 139.20715pt x 157.51086pt.
  [231
 
- <./images/section4SamplingDistfromPop.png>]
-[232
+ <./images/section4SamplingDistfromPop.png>] [232
 
 ]
 <images/samplingDistMean.png, id=1682, 578.16pt x 361.35pt>
@@ -2635,20 +2648,29 @@ File: images/samplingDistMean.png Graphic file (type png)
 <use images/samplingDistMean.png>
 Package pdftex.def Info: images/samplingDistMean.png  used on input line 4334.
 (pdftex.def)             Requested size: 289.07928pt x 180.67456pt.
- [233
+
+[233
 
  <./images/samplingDistMean.png>] [234
 
 ] [235
 
-] [236
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 4364.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 4364.
+
+[236
 
 ] [237
 
 ] [238
 
-]
-[239
+] [239
 
 ] [240
 
@@ -2664,49 +2686,53 @@ Package pdftex.def Info: images/samplingDistMean.png  used on input line 4334.
 
 ] [246
 
+] [247
+
 ]
-<images/normalDistAreaSamplingDistMean45SE2.png, id=1757, 578.16pt x 361.35pt>
+<images/normalDistAreaSamplingDistMean45SE2.png, id=1763, 578.16pt x 361.35pt>
 File: images/normalDistAreaSamplingDistMean45SE2.png Graphic file (type png)
 <use images/normalDistAreaSamplingDistMean45SE2.png>
 Package pdftex.def Info: images/normalDistAreaSamplingDistMean45SE2.png  used o
-n input line 4547.
+n input line 4568.
 (pdftex.def)             Requested size: 289.07928pt x 180.67456pt.
- [247
+
+Overfull \vbox (5.47821pt too high) detected at line 4568
+ []
+
+[248
 
  <./images/normalDistAreaSamplingDistMean45SE2.png>]
 File: images/normalDistAreaSamplingDistMean45SE2.png Graphic file (type png)
 <use images/normalDistAreaSamplingDistMean45SE2.png>
 Package pdftex.def Info: images/normalDistAreaSamplingDistMean45SE2.png  used o
-n input line 4558.
+n input line 4579.
 (pdftex.def)             Requested size: 231.2599pt x 144.53743pt.
- [248
-
-] [249
+ [249
 
 ] [250
 
+] [251
+
 ]
-<images/SamplingDistIntervals.png, id=1780, 578.16pt x 361.35pt>
+<images/SamplingDistIntervals.png, id=1785, 578.16pt x 361.35pt>
 File: images/SamplingDistIntervals.png Graphic file (type png)
 <use images/SamplingDistIntervals.png>
 Package pdftex.def Info: images/SamplingDistIntervals.png  used on input line 4
-597.
+618.
 (pdftex.def)             Requested size: 289.07928pt x 180.67456pt.
- [251
+
+[252
 
  <./images/SamplingDistIntervals.png>]
-<images/section5ConfidenceIntervalMu.png, id=1787, 702.625pt x 521.95pt>
+<images/section5ConfidenceIntervalMu.png, id=1792, 702.625pt x 521.95pt>
 File: images/section5ConfidenceIntervalMu.png Graphic file (type png)
 <use images/section5ConfidenceIntervalMu.png>
 Package pdftex.def Info: images/section5ConfidenceIntervalMu.png  used on input
- line 4609.
+ line 4630.
 (pdftex.def)             Requested size: 230.86334pt x 171.49538pt.
- [252
+ [253
 
- <./images/section5ConfidenceIntervalMu.png (PNG copy)>] [253
-
-]
-[254
+ <./images/section5ConfidenceIntervalMu.png (PNG copy)>] [254
 
 ] [255
 
@@ -2723,19 +2749,21 @@ Package pdftex.def Info: images/section5ConfidenceIntervalMu.png  used on input
 ] [261
 
 ]
-<images/section5ConfidenceIntervalP.png, id=1841, 702.625pt x 501.875pt>
+[262
+
+]
+<images/section5ConfidenceIntervalP.png, id=1846, 702.625pt x 501.875pt>
 File: images/section5ConfidenceIntervalP.png Graphic file (type png)
 <use images/section5ConfidenceIntervalP.png>
 Package pdftex.def Info: images/section5ConfidenceIntervalP.png  used on input 
-line 4777.
+line 4798.
 (pdftex.def)             Requested size: 250.93842pt x 179.24281pt.
- [262
+ [263
 
- <./images/section5ConfidenceIntervalP.png (PNG copy)>] [263
+ <./images/section5ConfidenceIntervalP.png (PNG copy)>] [264
 
-] [264
-
-] [265
+]
+[265
 
 ] [266
 
@@ -2745,38 +2773,39 @@ line 4777.
 
 ] [269
 
+] [270
+
 ]
-<images/normalandTdf-1.png, id=1884, 578.16pt x 361.35pt>
+<images/normalandTdf-1.png, id=1889, 578.16pt x 361.35pt>
 File: images/normalandTdf-1.png Graphic file (type png)
 <use images/normalandTdf-1.png>
-Package pdftex.def Info: images/normalandTdf-1.png  used on input line 4885.
-(pdftex.def)             Requested size: 300.64493pt x 187.90308pt.
- [270
-
- <./images/normalandTdf-1.png>]
-<images/normalandTdf-2.png, id=1892, 578.16pt x 361.35pt>
-File: images/normalandTdf-2.png Graphic file (type png)
-<use images/normalandTdf-2.png>
-Package pdftex.def Info: images/normalandTdf-2.png  used on input line 4897.
+Package pdftex.def Info: images/normalandTdf-1.png  used on input line 4906.
 (pdftex.def)             Requested size: 300.64493pt x 187.90308pt.
  [271
 
- <./images/normalandTdf-2.png>]
-<images/section5ttable.png, id=1900, 616.55344pt x 440.39531pt>
-File: images/section5ttable.png Graphic file (type png)
-<use images/section5ttable.png>
-Package pdftex.def Info: images/section5ttable.png  used on input line 4906.
-(pdftex.def)             Requested size: 308.27596pt x 220.19711pt.
-
-Overfull \hbox (0.98608pt too wide) in paragraph at lines 4906--4906
-[][]  
- []
+ <./images/normalandTdf-1.png>]
+<images/normalandTdf-2.png, id=1897, 578.16pt x 361.35pt>
+File: images/normalandTdf-2.png Graphic file (type png)
+<use images/normalandTdf-2.png>
+Package pdftex.def Info: images/normalandTdf-2.png  used on input line 4918.
+(pdftex.def)             Requested size: 300.64493pt x 187.90308pt.
 
 [272
 
- <./images/section5ttable.png>] [273
+ <./images/normalandTdf-2.png>]
+<images/section5ttable.png, id=1904, 616.55344pt x 440.39531pt>
+File: images/section5ttable.png Graphic file (type png)
+<use images/section5ttable.png>
+Package pdftex.def Info: images/section5ttable.png  used on input line 4927.
+(pdftex.def)             Requested size: 308.27596pt x 220.19711pt.
 
-] [274
+Overfull \hbox (0.98608pt too wide) in paragraph at lines 4927--4927
+[][]  
+ []
+
+[273
+
+ <./images/section5ttable.png>] [274
 
 ] [275
 
@@ -2786,15 +2815,17 @@ Overfull \hbox (0.98608pt too wide) in paragraph at lines 4906--4906
 
 ] [278
 
-]
-[279
+] [279
 
-] [280
+]
+[280
 
 ] [281
 
+] [282
+
 ]
-Overfull \hbox (8.65146pt too wide) detected at line 5063
+Overfull \hbox (8.65146pt too wide) detected at line 5084
 \T1/LinuxLibertineT-TLF/m/it/10.95 p[] \OT1/cmr/m/n/10.95 = \T1/LinuxLibertineT
 -TLF/m/it/10.95 p\OT1/cmr/m/n/10.95 ([] \OMS/cmsy/m/n/10.95 ^^T \T1/LinuxLibert
 ineT-TLF/m/n/10.95 11\OML/cmm/m/it/10.95 :\T1/LinuxLibertineT-TLF/m/n/10.95 3\O
@@ -2802,94 +2833,94 @@ T1/cmr/m/n/10.95 ) = [] = \T1/LinuxLibertineT-TLF/m/n/10.95 0\OML/cmm/m/it/10.9
 5 :\T1/LinuxLibertineT-TLF/m/n/10.95 0010
  []
 
-[282
+[283
 
 ]
-<images/HypothesisTesting12.png, id=1958, 578.16pt x 361.35pt>
+<images/HypothesisTesting12.png, id=1963, 578.16pt x 361.35pt>
 File: images/HypothesisTesting12.png Graphic file (type png)
 <use images/HypothesisTesting12.png>
-Package pdftex.def Info: images/HypothesisTesting12.png  used on input line 507
-2.
+Package pdftex.def Info: images/HypothesisTesting12.png  used on input line 509
+3.
 (pdftex.def)             Requested size: 289.07928pt x 180.67456pt.
- [283
+ [284
 
- <./images/HypothesisTesting12.png>] [284
-
-] [285
+ <./images/HypothesisTesting12.png>] [285
 
 ] [286
 
+] [287
+
 ]
-<images/TypeITypeIIErrors.png, id=1981, 720.11893pt x 227.99464pt>
+<images/TypeITypeIIErrors.png, id=1985, 720.11893pt x 227.99464pt>
 File: images/TypeITypeIIErrors.png Graphic file (type png)
 <use images/TypeITypeIIErrors.png>
-Package pdftex.def Info: images/TypeITypeIIErrors.png  used on input line 5144.
+Package pdftex.def Info: images/TypeITypeIIErrors.png  used on input line 5165.
 
 (pdftex.def)             Requested size: 288.04247pt x 91.19623pt.
- [287
+ [288
 
- <./images/TypeITypeIIErrors.png>] [288
-
-] [289
+ <./images/TypeITypeIIErrors.png>] [289
 
 ] [290
 
 ] [291
 
+] [292
+
 ]
-<images/HypothesisTestingK.png, id=2009, 578.16pt x 361.35pt>
+<images/HypothesisTestingK.png, id=2013, 578.16pt x 361.35pt>
 File: images/HypothesisTestingK.png Graphic file (type png)
 <use images/HypothesisTestingK.png>
-Package pdftex.def Info: images/HypothesisTestingK.png  used on input line 5218
+Package pdftex.def Info: images/HypothesisTestingK.png  used on input line 5239
 .
 (pdftex.def)             Requested size: 231.2599pt x 144.53743pt.
- [292
+ [293
 
  <./images/HypothesisTestingK.png>]
-<images/HypothesisTestingUpperK.png, id=2016, 578.16pt x 361.35pt>
+<images/HypothesisTestingUpperK.png, id=2020, 578.16pt x 361.35pt>
 File: images/HypothesisTestingUpperK.png Graphic file (type png)
 <use images/HypothesisTestingUpperK.png>
 Package pdftex.def Info: images/HypothesisTestingUpperK.png  used on input line
- 5229.
-(pdftex.def)             Requested size: 289.07928pt x 180.67456pt.
- [293
-
- <./images/HypothesisTestingUpperK.png>]
-<images/HypothesisTestingBothK.png, id=2023, 578.16pt x 361.35pt>
-File: images/HypothesisTestingBothK.png Graphic file (type png)
-<use images/HypothesisTestingBothK.png>
-Package pdftex.def Info: images/HypothesisTestingBothK.png  used on input line 
-5240.
+ 5250.
 (pdftex.def)             Requested size: 289.07928pt x 180.67456pt.
  [294
 
- <./images/HypothesisTestingBothK.png>] [295
+ <./images/HypothesisTestingUpperK.png>]
+<images/HypothesisTestingBothK.png, id=2027, 578.16pt x 361.35pt>
+File: images/HypothesisTestingBothK.png Graphic file (type png)
+<use images/HypothesisTestingBothK.png>
+Package pdftex.def Info: images/HypothesisTestingBothK.png  used on input line 
+5261.
+(pdftex.def)             Requested size: 289.07928pt x 180.67456pt.
+ [295
 
-] [296
+ <./images/HypothesisTestingBothK.png>] [296
 
 ] [297
 
+] [298
+
 ]
-<images/HypothesisTestingTwoSided.png, id=2047, 578.16pt x 361.35pt>
+<images/HypothesisTestingTwoSided.png, id=2051, 578.16pt x 361.35pt>
 File: images/HypothesisTestingTwoSided.png Graphic file (type png)
 <use images/HypothesisTestingTwoSided.png>
 Package pdftex.def Info: images/HypothesisTestingTwoSided.png  used on input li
-ne 5303.
-(pdftex.def)             Requested size: 289.07928pt x 180.67456pt.
- [298
-
- <./images/HypothesisTestingTwoSided.png>]
-<images/HypothesisTestingOneSided.png, id=2054, 578.16pt x 361.35pt>
-File: images/HypothesisTestingOneSided.png Graphic file (type png)
-<use images/HypothesisTestingOneSided.png>
-Package pdftex.def Info: images/HypothesisTestingOneSided.png  used on input li
-ne 5314.
+ne 5324.
 (pdftex.def)             Requested size: 289.07928pt x 180.67456pt.
  [299
 
- <./images/HypothesisTestingOneSided.png>] [300
+ <./images/HypothesisTestingTwoSided.png>]
+<images/HypothesisTestingOneSided.png, id=2058, 578.16pt x 361.35pt>
+File: images/HypothesisTestingOneSided.png Graphic file (type png)
+<use images/HypothesisTestingOneSided.png>
+Package pdftex.def Info: images/HypothesisTestingOneSided.png  used on input li
+ne 5335.
+(pdftex.def)             Requested size: 289.07928pt x 180.67456pt.
+ [300
 
-] [301
+ <./images/HypothesisTestingOneSided.png>] [301
+
+] [302
 
 ]
 \tf@nav=\write6
@@ -2911,21 +2942,21 @@ Package movie15 Warning: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 (./BUAD2060_BusinessStatistics_Fall2020.aux)
 Package rerunfilecheck Info: File `BUAD2060_BusinessStatistics_Fall2020.out' ha
 s not changed.
-(rerunfilecheck)             Checksum: B458C0963B05D7FD38134A7CFAABEC3E;3951.
+(rerunfilecheck)             Checksum: A0C0B4E77798459D9219B083A059F0C2;4133.
  ) 
 Here is how much of TeX's memory you used:
- 29356 strings out of 478994
- 554730 string characters out of 5858184
- 900599 words of memory out of 5000000
- 45430 multiletter control sequences out of 15000+600000
- 565761 words of font info for 119 fonts, out of 8000000 for 9000
+ 29370 strings out of 478994
+ 554934 string characters out of 5858184
+ 900917 words of memory out of 5000000
+ 45441 multiletter control sequences out of 15000+600000
+ 572721 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,16n,132p,459b,961s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc
 }{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{
-/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/
-usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_dc4jmj.enc}{/u
+/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_dc4jmj.enc}{/
+usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/u
 sr/local/texlive/2021/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</us
 r/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb><
 /usr/local/texlive/2021/texmf-dist/fonts/type1/public/libertine/LinLibertineT.p
@@ -2940,21 +2971,20 @@ onts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmmi5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
-pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
-></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></
-usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></us
-r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
-local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/lo
-cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on BUAD2060_BusinessStatistics_Fall2020.pdf (301 pages, 8393719 
+/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.p
+fb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb>
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
+r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/
+local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on BUAD2060_BusinessStatistics_Fall2020.pdf (302 pages, 8387819 
 bytes).
 PDF statistics:
- 2301 PDF objects out of 2487 (max. 8388607)
- 1728 compressed objects within 18 object streams
- 659 named destinations out of 1000 (max. 500000)
- 911 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2303 PDF objects out of 2487 (max. 8388607)
+ 1730 compressed objects within 18 object streams
+ 661 named destinations out of 1000 (max. 500000)
+ 919 words of extra memory for PDF output out of 10000 (max. 10000000)
 

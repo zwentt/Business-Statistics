@@ -360,7 +360,7 @@ B                                                 & 560                         
 \hline
 C                                                 & 325                             & \textbf{\textcolor{blue}{37\%}} & 593                             & 34\%                             \\ 
 \hline
-D                                                 & 417                             & 33\%                            & 375                             & 35\%                             \\ 
+D                                                 & 417                             & 33\%                            & 375                             & \textbf{\textcolor{blue}{35\%}}   \\ 
 \hline
 E                                                 & 191                             & \textbf{\textcolor{blue}{28\%}} & 393                             & 24\%                             \\ 
 \hline
@@ -3555,7 +3555,7 @@ $$ Var[x] = \sigma^2 $$
 
 \begin{itemize}
 \item Two key parameters $\mu$ and $\sigma$ differentiate one normal distribution from another; 
-\item $\mu$ has the highest value of $f(x)$ (change favors the $\mu$);
+\item $\mu$ has the highest value of $f(x)$ (chance favors the $\mu$);
 \item Normal distributions are symmetric with the area before the $\mu$ is always .50;
 \item Both ends extend to the negative and positive infinity;
 \item Standard deviation determines how flat or skinny the normal distribution will look.
@@ -3835,9 +3835,9 @@ This Excel formula will return the probability up to the point of $x$. Therefore
 
 \hline
 Scenario                & Excel Formula \\ \hline
-Up to $z$               & $ = \text{NORM.DIST} (x, \mu, \sigma, \text{TRUE}) $ \\ \hline
-Beyond $z$              & $ = 1- \text{NORM.DIST} (x, \mu, \sigma, \text{TRUE}) $ \\ \hline
-Between $z_1$ and $z_2$ & $ = \text{NORM.DIST} (x_2, \mu, \sigma, \text{TRUE}) - \text{NORM.DIST} (z_1, \mu, \sigma, \text{TRUE})  $ \\ \hline
+Up to $x$               & $ = \text{NORM.DIST} (x, \mu, \sigma, \text{TRUE}) $ \\ \hline
+Beyond $x$              & $ = 1- \text{NORM.DIST} (x, \mu, \sigma, \text{TRUE}) $ \\ \hline
+Between $x_1$ and $x_2$ & $ = \text{NORM.DIST} (x_2, \mu, \sigma, \text{TRUE}) - \text{NORM.DIST} (z_1, \mu, \sigma, \text{TRUE})  $ \\ \hline
 
 \end{tabular}
 \end{table}
@@ -4241,7 +4241,7 @@ Why sample averages and the sample proportion use the same calculation?
 \end{frame}
 
 
-\subsection{2. Sampling Distributions of the Means}
+\subsection{2. Sampling Distributions of $\mu$}
 \begin{frame}
 \subsectionpage
 \end{frame}
@@ -4361,7 +4361,7 @@ Utube Co., LTD. in Toledo, OH manufactures a special glass panel with the thickn
 \end{frame}
 
 
-\subsection{3. Sampling Distributions of the Proportion}
+\subsection{3. Sampling Distributions of $p$}
 \begin{frame}
 \subsectionpage
 \end{frame}
@@ -4467,7 +4467,7 @@ The Food Marketing Institute shows that 17 \% of households spend more than \$10
 
 
 
-\subsection{4. Interval Estimation}
+\subsection{4. Interval Estimation in Z-Dist.}
 \begin{frame}
 \subsectionpage
 \end{frame}
@@ -4533,9 +4533,30 @@ $$ \text{Confidence Level} = 1 - \alpha $$
 
 \end{frame}
 
+\begin{frame}{Confidence Intervals}
+	
+	In this subsection, we first study how to combine the $\alpha$ with a sample statistics to produce a reasonable estimation on the corresponding population parameter. 
+	\vspace{0.3 cm}
+	\begin{itemize}
+		\item Confidence Interval for Sample Means
+		\begin{itemize}
+			\item Margin of Error
+			\item Constructing an Interval
+			\item $\alpha$, $\sigma$, and $n$
+			\item Sample Size Determination - what $n$ for a target M.E.?
+		\end{itemize}
+		\item Confidence Interval for Sample Proportions
+	\end{itemize}
+	
+\end{frame}
+
+
+
 
 \subsubsection{Interval Estimation for Population Mean}
-\begin{frame}{Let's First Consider This }
+
+
+\begin{frame}{Interval Estimation for Population Mean - Opening Question}
 
 
 \begin{center}
@@ -4678,7 +4699,7 @@ Given the same $\sigma = 10$ and $\alpha = 0.05$, here is how $M.E.$ changes whe
 \begin{center}
 \begin{tabular}{l|l|l}
 \hline
-$n$ & $\sigma/n$ & $M.E.$ \\ \hline
+$n$ & $\sigma/\sqrt{n}$ & $M.E.$ \\ \hline
 4   & 5.0000     & 9.8000 \\ \hline
 9   & 3.3333     & 6.5333 \\ \hline
 16  & 2.5000     & 4.9000 \\ \hline
@@ -4754,7 +4775,7 @@ Notice that the last two methods require to have at one group of sample already.
 
 \subsubsection{Interval Estimation for Population Proportion}
 
-\begin{frame}{Overview}
+\begin{frame}{Interval Estimation for Population Proportion - Overview}
 For the population proportion, the interval estimation functions in a very similar way. 
 
 $$M.E. = z_{\alpha/2} \cdot \sqrt{\frac{p\cdot(1-p)}{n}}$$ 
@@ -4812,7 +4833,7 @@ In a survey, the planning value for the population proportion is $p^* = 0.35$. H
 
 
 
-\subsubsection{When the $\sigma$ is Unknown - T-Distribution}
+\subsection{5. Interval Estimation in T-Dist.}
 \begin{frame}
 \subsectionpage
 \end{frame}
@@ -4952,7 +4973,7 @@ Let's compare z-distribution and t-distribution by answering the following quest
 
 
 
-\subsection{5. Hypothesis Testing}
+\subsection{6. Hypothesis Testing}
 
 \begin{frame}
 \subsectionpage
